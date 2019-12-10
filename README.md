@@ -1,4 +1,4 @@
-# Resumo Técnicas para COOPERA
+Resumo Técnicas para COOPERA
 --------------------------------
 
 ## Lei de Parkinson
