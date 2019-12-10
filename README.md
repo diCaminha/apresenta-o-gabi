@@ -1,5 +1,3 @@
-# apresenta-o-gabi
-apresentação sobre tecnicas de estudo
 # Resumo Técnicas para COOPERA
 --------------------------------
 
