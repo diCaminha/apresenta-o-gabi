@@ -3,7 +3,7 @@
 
 ## Lei de Parkinson
 
-`A ideia principal é podermos fazer um uso mais **eficiente** do do nosso tempo e nos tornarmos mais **produtivo**.`
+`A ideia principal é podermos fazer um uso mais eficiente do do nosso tempo e nos tornarmos mais produtivo.`
 
 ### *O que é a Lei de Parkinson*
 
